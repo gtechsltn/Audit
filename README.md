@@ -74,3 +74,7 @@ public class Startup
 ```
 app.Services.GetRequiredService<IHttpContextAccessor>().HttpContext
 ```
+
+# Microsoft Azure AI
++ https://docs.google.com/document/d/1m5apXqCl9klbb1PoiQS1Tg3hYUbozIcZZI8fC_X6lJU/
++ https://docs.google.com/document/d/1Qh6XRMaZROh3SVwtIZMt9lqs9uEVnYxiUKJxN4n4CjQ/
